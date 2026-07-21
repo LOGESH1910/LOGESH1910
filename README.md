@@ -7,7 +7,7 @@
       <stop offset="0%" stop-color="#0F172A"/>
       <stop offset="50%" stop-color="#1E40AF"/>
       <stop offset="100%" stop-color="#3B82F6"/>
-    </linearGradient>
+    </linearGradient>   
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
       <feMerge>
